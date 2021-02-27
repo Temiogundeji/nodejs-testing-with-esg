@@ -1,5 +1,7 @@
 ## NodeJs API testing with ES6
 
+[![Build Status](https://www.travis-ci.com/Temiogundeji/nodejs-testing-with-esg.svg?branch=master)](https://www.travis-ci.com/Temiogundeji/nodejs-testing-with-esg)
+
 **The required modules such as the following have been installed for this project:**
 
 - NodeJs
