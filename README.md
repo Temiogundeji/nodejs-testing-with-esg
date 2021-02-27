@@ -2,6 +2,8 @@
 
 [![Build Status](https://www.travis-ci.com/Temiogundeji/nodejs-testing-with-esg.svg?branch=master)](https://www.travis-ci.com/Temiogundeji/nodejs-testing-with-esg)
 
+[![Coverage Status](https://coveralls.io/repos/github/Temiogundeji/nodejs-testing-with-esg/badge.svg?branch=master)](https://coveralls.io/github/Temiogundeji/nodejs-testing-with-esg?branch=master)
+
 **The required modules such as the following have been installed for this project:**
 
 - NodeJs
